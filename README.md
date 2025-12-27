@@ -3,7 +3,7 @@
 
 Information about the structure of metallic and bimetallic nanoclusters including fcc and amorphous structures of different sizes.
 
-Each archive contains *XYZ* files of structural information of nanoclusters with a specific size and different compositions. 
+Each archive contains *XYZ* files of structural information of nanoclusters with a specific size and different compositions where the final column is the d-band center of each atom. 
 
 There are core-shell nanoclusters Me@Pt, where Me = Ag, Au, Cu, Co, Ir, Ni, Os, Pd, Rh, Pt, Ru
 
